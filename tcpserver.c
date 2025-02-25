@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <arpa/inet.h>
 
-#define PORT 3256
+#define PORT 3260
 
 int main() {
     int server_sock, client_sock;
